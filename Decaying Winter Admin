@@ -189,10 +189,10 @@ local NameToStat = {
 }
 
 local Weapons = {
-    ["Agent Case Omicron"] = "AgentCC";
-    ["Agent Case Epsilon"] = "AgentCB";
-    ["Agent Case Alpha"] = "AgentCA";
-    ["Agent Case Zero"] = "AgentCD";
+    ["Agent Container Omicron"] = "AgentCC";
+    ["Agent Container Epsilon"] = "AgentCB";
+    ["Agent Container Alpha"] = "AgentCA";
+    ["Agent Container Zero"] = "AgentCD";
    --["Juggernaut Box"] = "JBox";
    -- ["TYPE-22 LSR-MG"] = "LSMini";
    -- ["LSR-MG"] = "LSMini";
